@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="enter_numbers_here">Введіть вираз</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="clean">Очистити</string>
+    <string name="result">Результат</string>
+    <string name="maid_in">made in Ukraine</string>
+    <string name="nores">Немає відповіді</string>
+    <string name="close">Повернутися до розрахунків</string>
+</resources>
